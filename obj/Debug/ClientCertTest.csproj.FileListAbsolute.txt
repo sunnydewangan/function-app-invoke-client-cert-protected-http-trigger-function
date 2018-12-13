@@ -1,0 +1,7 @@
+C:\Users\sadewa\Source\Repos\WebApplication7\ClientCertTest\bin\Debug\ClientCertTest.exe.config
+C:\Users\sadewa\Source\Repos\WebApplication7\ClientCertTest\bin\Debug\ClientCertTest.exe
+C:\Users\sadewa\Source\Repos\WebApplication7\ClientCertTest\bin\Debug\ClientCertTest.pdb
+C:\Users\sadewa\Source\Repos\WebApplication7\ClientCertTest\obj\Debug\ClientCertTest.csprojAssemblyReference.cache
+C:\Users\sadewa\Source\Repos\WebApplication7\ClientCertTest\obj\Debug\ClientCertTest.csproj.CoreCompileInputs.cache
+C:\Users\sadewa\Source\Repos\WebApplication7\ClientCertTest\obj\Debug\ClientCertTest.exe
+C:\Users\sadewa\Source\Repos\WebApplication7\ClientCertTest\obj\Debug\ClientCertTest.pdb
